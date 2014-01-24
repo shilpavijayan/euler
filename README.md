@@ -1,0 +1,1 @@
+Example problems from project Euler and other sources.
